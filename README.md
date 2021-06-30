@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @flemune
+- 👀 I’m interested in Games and Machine learning
+- 🌱 I’m currently learning Python
