@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @flemune
+- 👋 Hi, I’m @zouix
 - 👀 I’m interested in Games and Machine learning
 - 🌱 I’m currently learning Python
