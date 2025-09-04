@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zouix
 - 👀 I’m interested in Games and Machine learning
 - 🌱 I’m currently learning Python & Java
-- 
-![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/d3aa9ce8-0322-478c-af44-0646a90246d6)
-![212741999-016fddbd-617a-4448-8042-0ecf907aea25](https://github.com/user-attachments/assets/1400fa18-2503-41e4-bf11-ce6ae9ff99c2)
+  ![240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e](https://github.com/user-attachments/assets/0136dfc9-7d23-4bfe-a5a2-b6faaa32c920)
+
+![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/5c08756c-66cc-402b-b29a-58a224f0f115)
