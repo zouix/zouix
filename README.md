@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @zouix
-- 👀 I’m interested in Games and Machine learning
-- 🌱 I’m currently learning Python & Java
+Yo zouix this side.
+building games and AI stuff. learning by making things instead of watching 10-hour tutorial playlists like everyone else.
 
+stack: javascript, python, c#, java, react, tensorflow
+focus: game dev, machine learning, anything that pushes what's possible
 
+learning multiple languages at once because different tools solve different problems. currently exploring game engines and conversational AI models.
 
+not interested in making another crud app or following someone's 10-hour tutorial series. if you're working on something that actually requires thinking, let's talk.
 
+ship code that works. optimize later if it matters.
 
-
-![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/122a518c-99fe-449f-baa6-178c281ec060)
