@@ -2,6 +2,7 @@ Yo @zouix this side.
 Building games and AI stuff. Learning by making things instead of watching 10-hour tutorial playlists like everyone else.
 
 Stack: javascript, python, c#, java, react, tensorflow
+
 Focus: game dev, machine learning, anything that pushes what's possible
 
 Learning multiple languages at once because different tools solve different problems. currently exploring game engines and conversational AI models.
